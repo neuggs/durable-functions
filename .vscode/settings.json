@@ -1,0 +1,11 @@
+{
+    "azureFunctions.deploySubpath": "durable_functions_hello_world",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.templateFilter": "All",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "azureFunctions.projectSubpath": "durable_functions_hello_world"
+}
